@@ -1,7 +1,7 @@
 # AI-Implementation-to-Walmart
 
 Team project for my Design Thinking module: prototyped and analysed the bussiness impact of an AI app on the supermarket Walmart. The app uses a reccommendation
-alghoritm to reccommend foods in more nutritive categories to preganant women shopping at Walmart. 
+alghoritm to reccommend foods in more nutritive categories to preganant women shopping at Walmart. The project had more steps:
 
 - scoping the problem in the food system and reducing it to micronutrient malnutrition for pregnant women in the US
 - carrying out extensive research about the existing AI technologies in supermarkets and categorised them according to McKinsey
