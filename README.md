@@ -1,5 +1,11 @@
 # AI-Implementation-to-Walmart
 
+**Part 1**
+
+Wrote a business report to examine the problem of the food system for retailers, identyfying 50 possible technology applications for the supermarket and quantifying their impact.
+
+**Part 2**
+
 Team project for my Design Thinking module: prototyped and analysed the bussiness impact of an AI app on the supermarket Walmart. The app uses a reccommendation
 alghoritm to reccommend foods in more nutritive categories to preganant women shopping at Walmart. The project had more steps:
 
